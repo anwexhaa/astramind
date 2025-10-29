@@ -34,6 +34,17 @@ AstraMind transforms **financial PDFs** into **actionable insights**, **AI-drive
 
 ---
 
+## 🖼️ AstraMind in Action 🌌  
+
+| Dashboard | Analyzer | Chat Assistant |
+|------------|-----------|----------------|
+| ![Dashboard](https://github.com/anwexhaa/astramind-master/blob/main/assests/dashboard.png?raw=true) | ![Analyzer](https://github.com/anwexhaa/astramind-master/blob/main/assests/analyzer.png?raw=true) | ![Chat](https://github.com/anwexhaa/astramind-master/blob/main/assests/chat.png?raw=true) |
+
+| Report Comparison | Plugin System | Sign Out View |
+|--------------------|----------------|----------------|
+| ![Compare](https://github.com/anwexhaa/astramind-master/blob/main/assests/compare.png?raw=true) | ![Plugin](https://github.com/anwexhaa/astramind-master/blob/main/assests/plugin.png?raw=true) | ![Sign Out](https://github.com/anwexhaa/astramind-master/blob/main/assests/signout.png?raw=true) |
+
+
 ## ⚙️ Tech Stack  
 
 | Area | Technologies |
@@ -76,4 +87,5 @@ Built with 💚 by **Anwesha Das**
 ## 📜 License  
 
 This project is licensed under the **MIT License**.
+
 
