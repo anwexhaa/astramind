@@ -3,7 +3,6 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-teal)](LICENSE)
 [![Next.js](https://img.shields.io/badge/Next.js-14-teal?logo=next.js&logoColor=white)](https://nextjs.org/)
 [![Node.js](https://img.shields.io/badge/Node.js-18-teal?logo=node.js)](https://nodejs.org/)
-[![Last Commit](https://img.shields.io/github/last-commit/anwexhaa/astramind-master?color=teal)](https://github.com/anwexhaa/astramind-master)
 
 ✨ **AI-Powered Financial Intelligence for Smarter Investments**  
 AstraMind transforms **financial PDFs** into **actionable insights**, **AI-driven summaries**, and **investment decisions** — all in a futuristic dark interface with a teal glow. 🌌
@@ -77,3 +76,4 @@ Built with 💚 by **Anwesha Das**
 ## 📜 License  
 
 This project is licensed under the **MIT License**.
+
