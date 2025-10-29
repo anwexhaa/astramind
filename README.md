@@ -34,15 +34,16 @@ AstraMind transforms **financial PDFs** into **actionable insights**, **AI-drive
 
 ---
 
-## 🖼️ AstraMind in Action 🌌  
+## 🖼️ Sneak Peek 🌌  
 
-| Dashboard | Analyzer | Chat Assistant |
-|------------|-----------|----------------|
-| ![Dashboard](https://github.com/anwexhaa/astramind-master/blob/main/assests/dashboard.png?raw=true) | ![Analyzer](https://github.com/anwexhaa/astramind-master/blob/main/assests/analyzer.png?raw=true) | ![Chat](https://github.com/anwexhaa/astramind-master/blob/main/assests/chat.png?raw=true) |
+| Dashboard | Report Analyzer | Chat Interface |
+|------------|----------------|----------------|
+| ![Dashboard](https://github.com/anwexhaa/astramind/blob/main/dashboard.png?raw=true) | ![Report Analyzer](https://github.com/anwexhaa/astramind/blob/main/analyzer.png?raw=true) | ![Chat Interface](https://github.com/anwexhaa/astramind/blob/main/chat.png?raw=true) |
 
-| Report Comparison | Plugin System | Sign Out View |
-|--------------------|----------------|----------------|
-| ![Compare](https://github.com/anwexhaa/astramind-master/blob/main/assests/compare.png?raw=true) | ![Plugin](https://github.com/anwexhaa/astramind-master/blob/main/assests/plugin.png?raw=true) | ![Sign Out](https://github.com/anwexhaa/astramind-master/blob/main/assests/signout.png?raw=true) |
+| Comparison View | Plugin System | Sign Out |
+|-----------------|----------------|-----------|
+| ![Comparison View](https://github.com/anwexhaa/astramind/blob/main/compare.png?raw=true) | ![Plugin System](https://github.com/anwexhaa/astramind/blob/main/plugin.png?raw=true) | ![Sign Out](https://github.com/anwexhaa/astramind/blob/main/signout.png?raw=true) |
+
 
 
 ## ⚙️ Tech Stack  
@@ -87,5 +88,6 @@ Built with 💚 by **Anwesha Das**
 ## 📜 License  
 
 This project is licensed under the **MIT License**.
+
 
 
